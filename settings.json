@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "Londi2477",
   "bot-account": {
     "username": "Slobot00",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "conosmp.aternos.me",
+    "port": 45235,
     "version": "",
     "try-creative": false
   },
@@ -32,7 +32,7 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "Londi La Leyenda Viviente",
         "I like to play Minecraft!"
       ]
     },
